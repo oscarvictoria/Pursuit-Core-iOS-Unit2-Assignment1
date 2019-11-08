@@ -9,5 +9,38 @@
 import Foundation
 
 class TicTacToeBrain {
-  
+  // MARK: Properties
+ 
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    // MARK: Initializers
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    // MARK: Methods
+    
+    
+    
+    
+    
+    
+    
+    
+    
 }
